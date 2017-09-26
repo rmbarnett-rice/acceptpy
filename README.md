@@ -69,7 +69,7 @@ When running the test defined in `echo_pie.test` AcceptPy:
 
 # Installation
 
-Version 1.2.0 can be downloaded directly from the command line via
+Version 1.3.0 can be downloaded directly from the command line via
 
 ```
 wget https://github.com/rmbar/acceptpy/releases/download/v1.3.0/accept.py
